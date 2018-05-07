@@ -28,3 +28,7 @@
 - 计算属性
 - 属性观察
 - 方法指令
+
+
+
+预览地址：[点击我](https://xinc127.github.io/vue_todolist/)
